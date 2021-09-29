@@ -18,5 +18,6 @@ or
 
 `./scannator -h`
 
+<img src="https://github.com/erennuygun/scannator/blob/main/images/help.png?raw=true" width="600">
 
-![alt text](http://github.com/erennuygun/scannator/images/help.png)
+
